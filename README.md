@@ -1,2 +1,4 @@
 # google-homepage
-odin_googlehomepage
+Odin - Google Homepage Project
+
+Odin - Google Homepage Project
