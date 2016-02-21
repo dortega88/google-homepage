@@ -1,6 +1,28 @@
-img.center {
+img.centered-image {
+	padding-top:200px;
 	display: block;
-	margin-left: auto;
-	margin-right: auto;
+	margin: auto;
+	vertical-align: auto;
 
+}
+
+form {
+	display: block;
+	text-align: center;
+	margin: auto;
+	vertical-align: auto;
+}
+
+ul {
+	float: left;
+	position: fixed;
+	bottom: 0;
+	display: block;
+}
+
+li {
+	float: left;
+	padding: 10px;
+	display: block;
+	background-color: #dddddd;
 }
