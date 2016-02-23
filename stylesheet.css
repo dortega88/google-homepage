@@ -19,6 +19,7 @@ img.centered-image {
 	display: block;
 	margin: auto;
 	vertical-align: auto;
+	/*position: relative;*/
 
 }
 
@@ -63,6 +64,7 @@ footer {
 	bottom: 0px;
 	width: 100%;
 }
+
 footer ul {
 	padding-left:0px;
 }
@@ -71,7 +73,6 @@ footer li {
 	display: inline;
 	padding: 5px;
 }
-
 
 #footer-left {
 	float: left;
@@ -87,7 +88,20 @@ footer li {
 	width: 100%;
 }
 
-#navbar-top {
-	display: inline;
-	float: right;
+#navbar-top ul {
+	text-align: right;
+	/*display: inline;*/
+	/*float: right;*/
+	/*padding-left: 20px;*/
 }
+
+#navbar-top li {
+	display: inline;
+	padding: 5px;
+	/*margin-left: 120px;*/
+
+	
+}
+
+
+
