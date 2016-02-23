@@ -29,6 +29,32 @@ form {
 	vertical-align: auto;
 }
 
+#search-box {
+	height: 30px;
+}
+
+input {
+	height: 36px;
+	line-height: 27px;
+}
+
+input[type="submit"]:hover {
+	border: 1px solid #c6c6c6;
+	box-shadow: 0 1px 1px rgba(0,0,0,0,1);
+	color: #222;
+}
+
+.button {
+	background-color: #f2f2f2;
+	border: 1px solid #f2f2f2;
+	color: #757575;
+	border-radius: 2px;
+	font-size: 13px;
+	font-weight: bold;
+	margin: 11px 4px;
+	padding: 0 16px;
+}
+
 footer {
 	background-color: #dddddd;
 	position:fixed;
@@ -57,3 +83,10 @@ footer li {
 	margin-right: 30px;
 }
 
+#search-bar {
+	width: 100%;
+}
+
+#header {
+	float: right;
+}
