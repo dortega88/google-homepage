@@ -87,6 +87,7 @@ footer li {
 	width: 100%;
 }
 
-#header {
+#navbar-top {
+	display: inline;
 	float: right;
 }
